@@ -1,0 +1,2 @@
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "EntitlementsTest")]
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "EntitlementsTest.Pages")]
